@@ -1,118 +1,24 @@
 ---
 layout: default
 ---
+Greetings.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Short-Bio
 
-[Link to another page](./another-page.html).
+I am a philosopher at the University of Groningen, currently working on my PhD. My research spans social ontology, moral psychology, and political philosophy, focusing on how individual and collective agents interact and shape one another. I am particularly interested in how we can create, design, or transform collective agents—such as states, corporations, and entire societies—in a sustainable and ethically sound way. This involves examining how individual behavior is influenced by corporate and institutional structures, as well as how we can align collective action with our moral ideals. By exploring the psychological and social mechanisms that drive moral behavior, I aim to understand how institutions and systems can be designed to foster cooperation, solidarity, and ethical responsibility. Ultimately, my work seeks to define what it means to create just and sustainable frameworks that support human flourishing.
 
-There should be whitespace between paragraphs.
+# Upcoming & Past Events 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**10/25** I’ll present at the conference “Working Democracy” in Groningen, Netherlands, where I’ll discuss moral dilemmas in the workplace and why we ought to alleviate them for employees.
 
-# Header 1
+**08/25** I will present the four papers comprising my PhD thesis at the annual SCOOP Conference in Amersfoort, Netherlands.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**08/25** I’ll be presenting my paper titled “The Right to Say No – Towards an Ethical Form of the Firm” at the annual conference of the International Social Ontology Society in Dublin, Ireland.
 
-## Header 2
+**05/25** I present my view on “The Right to Say No – Towards an Ethical Form of the Firm” at the conference “Reconceiving Business Corporations in Times of Political Contestation,” organized as part of Rutger Claassen’s research project “The Business Corporation as a Political Actor” in Utrecht, Netherlands.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**03/25** I taught a course on Political Decision-Making and Leadership for the Global Responsibility & Leadership Bachelor at Campus Fryslân. Together with Élise Rouméas, we explored the dilemmas of leaders and citizens in the context of democratic decision-making structures. 
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
