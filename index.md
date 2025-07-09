@@ -18,12 +18,3 @@ I am a philosopher at the University of Groningen, currently working on my PhD. 
 **05/25** I present my view on “The Right to Say No – Towards an Ethical Form of the Firm” at the conference “Reconceiving Business Corporations in Times of Political Contestation,” organized as part of Rutger Claassen’s research project “The Business Corporation as a Political Actor” in Utrecht, Netherlands.
 
 **03/25** I taught a course on Political Decision-Making and Leadership for the Global Responsibility & Leadership Bachelor at Campus Fryslân. Together with Élise Rouméas, we explored the dilemmas of leaders and citizens in the context of democratic decision-making structures. 
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
