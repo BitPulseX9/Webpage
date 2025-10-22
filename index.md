@@ -9,6 +9,8 @@ Greetings.
 
 # Upcoming & Past Events 
 
+**01/26** I am co-organizing a conference on The Sustainable Corporation with colleagues in Groningen. <a href="https://www.rug.nl/filosofie/organization/news-and-events/events/2024/call-for-papers-sustainable-corporation-jan-2026">See here.</a>
+
 **11/25** I will be visiting Stephanie Collins and Duncan Wallace at Monash University in Melbourne, Australia.
 
 **10/25** I will present at the conference “Working Democracy” in Groningen, the Netherlands, where I will discuss moral dilemmas in the workplace and why we ought to alleviate them for employees.
