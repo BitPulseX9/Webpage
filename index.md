@@ -3,13 +3,13 @@ layout: default
 ---
 Greetings.
 
-# Short-Bio
+# Overview
 
-<p style="text-align: justify">I am a philosopher at the University of Groningen, currently working on my PhD. My research spans social ontology, moral psychology, and political philosophy, focusing on how individual and collective agents interact and shape one another. I am particularly interested in how we can create, design, or transform collective agents—such as states, corporations, and entire societies—in a sustainable and ethically sound way. This involves examining how individual behavior is influenced by corporate and institutional structures, as well as how we can align collective action with our moral ideals. By exploring the psychological and social mechanisms that drive moral behavior, I aim to understand how institutions and systems can be designed to foster cooperation, solidarity, and ethical responsibility. Ultimately, my work seeks to define what it means to create just and sustainable frameworks that support human flourishing.</p>
+<p style="text-align: justify">I am a philosopher at the University of Groningen, currently working on my PhD. My research spans social ontology, moral psychology, and political philosophy, focusing on how individual and collective agents interact and shape one another. I am particularly interested in how we can create, design, or transform collective agents—such as states, corporations, and entire societies—in a sustainable and ethically sound way. This involves examining how individual behavior is influenced by corporate and institutional structures, as well as how we can align collective action with our moral ideals. By examining the psychological and social mechanisms that drive moral behavior, I aim to understand how institutions and systems can be designed to foster cooperation, solidarity, and ethical responsibility. Ultimately, my work seeks to define what it means to create just and sustainable frameworks that support human flourishing. You can read more about my projects <a href="https://scoop-db.wp.hum.uu.nl/project/9-3-sustainable-cooperation-in-organizations-success-and-failure/">here.</p>
 
 # Upcoming & Past Events 
 
-**01/26** I am co-organizing a conference on The Sustainable Corporation with colleagues in Groningen. <a href="https://www.rug.nl/filosofie/organization/news-and-events/events/2024/call-for-papers-sustainable-corporation-jan-2026">See here.</a>
+**01/26** I am co-organizing a conference on The Sustainable Corporation with colleagues in Groningen. <a href="https://www.rug.nl/filosofie/organization/news-and-events/events/2026/ppe/ppeconference2201">See here.</a>
 
 **11/25** I will be visiting Stephanie Collins and Duncan Wallace at Monash University in Melbourne, Australia.
 
